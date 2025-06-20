@@ -1,4 +1,4 @@
-# 📬 Telegram Channel Post Auto Forward Bot
+<h2 align="center">📬 Auto Forward Bot for Telegram Channels</h2>
 
 A simple and efficient Telegram bot that **automatically forwards messages** from a **channel** to your **personal chat**.
 
