@@ -25,7 +25,7 @@ For setup assistance or installation help, contact the creator on Telegram: [@ra
 
 1. Create a bot with [@BotFather](https://t.me/BotFather) and get the token.
 2. Add your bot to the channel as an **admin**.
-3. Set your personal Telegram user ID in the `.env` file.
+3. Set your personal Telegram user ID in the `bot.py` file.
 4. Run the bot:
 
 ```bash
