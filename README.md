@@ -17,7 +17,16 @@ A simple and efficient Telegram bot that **automatically forwards messages** fro
 
 ## 📦 Installation
 
+For setup assistance or installation help, contact the creator on Telegram: [@raoxc](https://t.me/raoxc)
+
+---
+
+## ⚙️ Usage
+
+1. Create a bot with [@BotFather](https://t.me/BotFather) and get the token.
+2. Add your bot to the channel as an **admin**.
+3. Set your personal Telegram user ID in the `.env` file.
+4. Run the bot:
+
 ```bash
-git clone https://github.com/raoxc/telegram-auto-forward-bot.git
-cd telegram-auto-forward-bot
-pip install -r requirements.txt
+python bot.py
