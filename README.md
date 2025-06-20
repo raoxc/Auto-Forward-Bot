@@ -13,7 +13,6 @@ A simple and efficient Telegram bot that **automatically forwards messages** fro
 ## 🧰 Requirements
 
 - Python 3.7+
-- [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 - A Telegram Bot Token from [@BotFather](https://t.me/BotFather)
 
 ## 📦 Installation
