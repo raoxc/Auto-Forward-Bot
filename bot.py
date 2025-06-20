@@ -3,7 +3,7 @@ from telegram.ext import Application, MessageHandler, filters, CallbackContext, 
 from telethon import version  # Import version from Telethon to display it
 
 # Bot token from BotFather
-TOKEN = '7733405529:AAEk8w-bt_r670DLfcHwVXAYjBAnP0H0xxE'
+TOKEN = '7733405529:AAEk8w-bt_r670DLfcHwVXAY'
 # Your personal chat ID to forward the messages
 CHAT_ID = '-1002217780167'
 
