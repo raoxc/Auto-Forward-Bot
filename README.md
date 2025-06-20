@@ -2,6 +2,8 @@
 
 A simple and efficient Telegram bot that **automatically forwards messages** from a **channel** to your **personal chat**.
 
+---
+
 ## 🚀 Features
 
 - 🔄 Auto-forwards posts from any Telegram channel
@@ -10,14 +12,25 @@ A simple and efficient Telegram bot that **automatically forwards messages** fro
 - 🔐 Secure and private — only you see the forwarded content
 - 🛠 Easy to set up and customize
 
+---
+
 ## 🧰 Requirements
 
 - Python 3.7+
 - A Telegram Bot Token from [@BotFather](https://t.me/BotFather)
 
+---
+
 ## 📦 Installation
 
-For setup assistance or installation help, contact the creator on Telegram: [@raoxc](https://t.me/raoxc)
+> 🛠 **Need help with setup?**  
+> 👉 Click the button below to contact the developer on Telegram:
+
+<p align="center">
+  <a href="https://t.me/raoxc" target="_blank">
+    <img src="https://img.shields.io/badge/Message%20Me%20On-Telegram-blue?logo=telegram" alt="Telegram Button"/>
+  </a>
+</p>
 
 ---
 
