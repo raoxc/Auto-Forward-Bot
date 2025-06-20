@@ -19,6 +19,6 @@ A simple and efficient Telegram bot that **automatically forwards messages** fro
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/telegram-auto-forward-bot.git
+git clone https://github.com/raoxc/telegram-auto-forward-bot.git
 cd telegram-auto-forward-bot
 pip install -r requirements.txt
